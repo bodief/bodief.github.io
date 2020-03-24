@@ -1,0 +1,9 @@
+---
+title: "Index"
+author: "Bodie"
+date: "3/22/2020"
+output: html_document
+---
+
+Hello! Welcome to my website ! My name is Bodie and I'm a grad student at SMU for data science. 
+My passions are the outdoors and quantitative finance. 
