@@ -3,8 +3,6 @@ navbar:
   title: "My Website"
   left:
     - text: "Home"
-      href: Index.html
+      href: index.html
     - text: "beercode"
       href: beercode.html
-    
-      
