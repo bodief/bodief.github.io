@@ -6,3 +6,6 @@ navbar:
       href: Index.html
     - text: "beercode"
       href: beercode.html
+    - text: "Lab3"
+      href: Lab3.html
+     
